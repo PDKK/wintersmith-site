@@ -1,8 +1,8 @@
 {
   "locals": {
-    "url": "http://localhost:8080",
-    "name": "The Wintersmith's blog",
-    "owner": "Someone",
+    "url": "http://locahost:8080",
+    "name": "The Knox-Kennedy Home",
+    "owner": "Paul Knox-Kennedy",
     "description": "Ramblings of an immor(t)al demigod"
   },
   "plugins": [
