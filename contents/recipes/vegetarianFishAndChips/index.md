@@ -4,7 +4,7 @@ author: knox-kennedy
 date: 2013-04-01
 template: recipe.jade
 parent: /recipes/
-parentname: Recipe Index
+parentname: [Back to the recipe index]
 ---
 
 
@@ -12,11 +12,11 @@ parentname: Recipe Index
 
 * 2 packs halloumi
 * 125g plain flour
-* 1/4 tsp white pepper
-* 1/4 tsp salt
-* 1tsp baking powder
+* <sup>1</sup>&frasl;<sub>4</sub> tsp white pepper
+* <sup>1</sup>&frasl;<sub>4</sub> tsp salt
+* 1 tsp baking powder
 * 125ml warm milk and water
-* 1 Lemon, cut into wedges
+* 1 lemon, cut into wedges
 
 ## Method 
 
