@@ -1,9 +1,9 @@
 {
   "locals": {
-    "url": "http://locahost:8080",
+    "url": "http://wwww.knox-kennedy.me.uk",
     "name": "The Knox-Kennedy Home",
     "owner": "Paul Knox-Kennedy",
-    "description": "Ramblings of an immor(t)al demigod"
+    "description": "Food, glorious food"
   },
   "plugins": [
     "./plugins/paginator.coffee"
