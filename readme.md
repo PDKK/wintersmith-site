@@ -7,6 +7,7 @@ Static website built using [wintersmith](https://github.com/jnordberg/wintersmit
 
 These are a guess:
 
+```
  sudo npm install wintersmith -g
  sudo npm install bower -g
  sudo npm install grunt-cli -g
@@ -15,4 +16,4 @@ These are a guess:
  grunt bower
  grunt wintersmith:preview
  grunt wintersmith:build
-
+```
