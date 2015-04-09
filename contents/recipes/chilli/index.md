@@ -1,6 +1,6 @@
 ---
 title: Chilli
-author: baker
+author: knox-kennedy
 date: 2013-04-01
 template: article.jade
 ---
